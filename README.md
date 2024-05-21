@@ -1,10 +1,9 @@
-TaskMERN es una aplicación web completa desarrollada con el stack MERN (MongoDB, Express, React, Node.js) que permite a los usuarios administrar y organizar sus tareas de manera eficiente. Ofrece funcionalidades clave como autenticación de usuarios, creación de proyectos, asignación de tareas a proyectos específicos, seguimiento del estado de las tareas y eliminación de tareas.
+TaskMERN es una aplicación web completa desarrollada con el stack MERN (MongoDB, Express, React, Node.js) que permite a los usuarios administrar y organizar sus tareas de manera eficiente. Ofrece funcionalidades como la redacción de tareas a proyectos específicos, seguimiento del estado de las tareas y eliminación de tareas.
 Características principales
 
-Autenticación de usuarios: Los usuarios pueden registrarse y autenticarse utilizando JSON Web Tokens (JWT) para acceder a la aplicación de forma segura.
-Gestión de proyectos: Los usuarios pueden crear nuevos proyectos y organizarlos según sus necesidades.
-Administración de tareas: Dentro de cada proyecto, los usuarios pueden agregar, actualizar y eliminar tareas asociadas. Cada tarea tiene un estado (pendiente, en progreso, completada) que se puede modificar fácilmente.
-Interfaz intuitiva: La aplicación cuenta con una interfaz de usuario moderna y responsive, construida con React, que facilita la interacción y la navegación.
+Gestión de proyectos: Los usuarios pueden crear nuevas tareas y organizarlos según sus necesidades.
+Administración de tareas: Dentro de cada proyecto, los usuarios pueden agregar, actualizar y eliminar tareas asociadas. Cada tarea tiene un estado que se puede modificar fácilmente.
+Interfaz intuitiva: La aplicación cuenta con una interfaz de usuario moderna y responsiva, construida con React, que facilita la interacción y la navegación.
 
 Tecnologías utilizadas
 
