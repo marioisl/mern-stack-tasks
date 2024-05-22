@@ -19,3 +19,5 @@ Instala las dependencias tanto para el cliente como para el servidor: npm instal
 Configura las variables de entorno necesarias (por ejemplo, la cadena de conexión a MongoDB)
 Inicia el servidor: npm run dev
 Accede a la aplicación en http://localhost:4000
+
+La autenticación de usuario está proyectada para hacer, de esta forma, generar una aplicación más robusta.
